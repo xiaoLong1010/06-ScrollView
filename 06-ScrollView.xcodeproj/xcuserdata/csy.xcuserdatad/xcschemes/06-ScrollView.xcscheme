@@ -38,6 +38,16 @@
                ReferencedContainer = "container:06-ScrollView.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2095E28819335A4F00059A9B"
+               BuildableName = "AutoScrollTests.xctest"
+               BlueprintName = "AutoScrollTests"
+               ReferencedContainer = "container:06-ScrollView.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference

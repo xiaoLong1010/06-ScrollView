@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>AutoScroll.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,16 @@
 			<true/>
 		</dict>
 		<key>2095E2511933307A00059A9B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2095E26C19335A4E00059A9B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2095E28819335A4F00059A9B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
